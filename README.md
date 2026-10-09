@@ -1,6 +1,6 @@
 # 线条小狗 · 贴贴日常
 
-DeepSeek Harness / DSH Desktop 的情侣主题：**白色马尔济斯 × 黄色小金毛**。奶油白背景、淡粉选中状态、奶黄色按钮，欢迎页牵手、侧边栏贴贴，设置页展示双小狗拥抱。
+DeepSeek Harness / DSH Desktop 的情侣主题：**陈瓜瓜 × 陈西西**。奶油白背景、淡粉选中状态、奶黄色按钮，欢迎页牵手、侧边栏贴贴，设置页展示双小狗拥抱。
 
 ![首页设计预览](static/preview.png)
 
@@ -9,7 +9,7 @@ DeepSeek Harness / DSH Desktop 的情侣主题：**白色马尔济斯 × 黄色�
 在插件页添加本目录：
 
 ```text
-/Users/zhy/Documents/deepseek-harness/default-workspace/dsh-line-puppy-theme
+/Users/zhy/dsh-line-puppy-theme
 ```
 
 已安装旧版时，当前 DSH 插件页要求先卸载再安装。源码会复制到 profile 的 generation；源码改动不会直接改变已安装副本。安装新版后重新加载客户端。

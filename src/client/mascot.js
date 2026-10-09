@@ -78,7 +78,7 @@ function LinePuppySettingsSection(props) {
       React.createElement('div', { className: 'lp-hero__copy' },
         React.createElement('span', { className: 'lp-hero__badge' }, '♥ 贴贴日常'),
         React.createElement('h3', { className: 'lp-hero__title' }, '一白一黄，刚好一对。'),
-        React.createElement('p', { className: 'lp-hero__desc' }, '白色马尔济斯 × 黄色小金毛')),
+        React.createElement('p', { className: 'lp-hero__desc' }, '陈瓜瓜 × 陈西西')),
       React.createElement('div', { className: 'lp-hero-art', 'aria-hidden': 'true', dangerouslySetInnerHTML: { __html: PUPPY_HUG_SVG } })),
     message ? React.createElement('div', { className: 'lp-status', role: state.error ? 'alert' : 'status', 'data-tone': state.error ? 'error' : 'info' }, message) : null,
     group('主题', SETTING_ROWS.slice(0, 1)),
