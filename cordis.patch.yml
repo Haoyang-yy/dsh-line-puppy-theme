@@ -1,0 +1,4 @@
+# DSH bundle patch: installed profiles merge this layer automatically.
+- insert:
+    - id: dsh-line-puppy-theme
+      name: dsh-line-puppy-theme

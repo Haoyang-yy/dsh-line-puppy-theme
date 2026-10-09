@@ -1,0 +1,15 @@
+{
+  "creator": "Moonlab / 문랩",
+  "page": "https://e.kakao.com/t/puppy-couple-doggy-day-retriever",
+  "assets": {
+    "couple-brand.png": {
+      "page": "https://e.kakao.com/t/mini-baby-puppy-couple",
+      "yellow": "https://item.kakaocdn.net/do/88850bedc9bfff7392fddcc77e32ea858f324a0b9c48f77dbce3a43bd11ce785",
+      "white": "https://item.kakaocdn.net/do/88850bedc9bfff7392fddcc77e32ea85d0bbab1214a29e381afae56101ded106",
+      "transform": "Composite of the two official mini faces from the cached preview gallery; background removed, white fur preserved."
+    },
+    "couple-home.png": "https://item.kakaocdn.net/do/24bce5220b928d7c8c3b9084fc7580ae8d8b8510f57972dd456ad3a95cc14239-g",
+    "couple-hug.png": "https://item.kakaocdn.net/do/24bce5220b928d7c8c3b9084fc7580ae13e34e16f6f7c83adda68e526d8f8409-g",
+    "couple-rest.png": "https://item.kakaocdn.net/do/24bce5220b928d7c8c3b9084fc7580ae2495b5a284c2be06dc618fbd984f89bf-g"
+  }
+}
