@@ -37,7 +37,7 @@ var exports = module.exports;
 /* Offline PNG snapshots avoid network requests and continuously decoded WebP
    animation. Only lightweight CSS transforms animate the couple. */
 const artwork = {}
-for (const name of ['couple-brand', 'couple-home', 'couple-hug', 'couple-rest']) {
+for (const name of ['couple-brand', 'couple-home', 'couple-hug', 'couple-cheer']) {
   artwork[name] = `data:image/png;base64,${(await readFile(join(root, 'static/art', `${name}.png`))).toString('base64')}`
 }
 const bodies = [`const COUPLE_ARTWORK = Object.freeze(${JSON.stringify(artwork)});`]

@@ -36,7 +36,7 @@ html[${ROOT_ATTRIBUTE}] [class$='_headline']:has(.lp-mark--hero) [class$='_previ
 html[${ROOT_ATTRIBUTE}] [class$='_fishHitbox']:has(.lp-mark--hero) { pointer-events: none; }
 html[${ROOT_ATTRIBUTE}] .lp-companions { width: 100%; min-width: 0; text-align: center; padding: 14px 0 20px; pointer-events: none; user-select: none; }
 html[${ROOT_ATTRIBUTE}] [class$='_footerActions']:has(.lp-companions) { flex-direction: column; }
-html[${ROOT_ATTRIBUTE}] .lp-companions__art { width: 130px; height: 73px; margin: 0 auto 7px; }
+html[${ROOT_ATTRIBUTE}] .lp-companions__art { width: 120px; height: 112px; margin: 0 auto 7px; }
 html[${ROOT_ATTRIBUTE}] .lp-companions__caption { color: #9A897B; font-size: 11px; line-height: 1.6; }
 @keyframes lp-couple-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
 @keyframes lp-heart-float { 0%,100% { opacity: .7; } 50% { opacity: 1; } }
@@ -47,7 +47,7 @@ html[${ROOT_ATTRIBUTE}][${MOTION_ATTRIBUTE}='on'] .lp-hearts { animation: lp-hea
   html[${ROOT_ATTRIBUTE}] .lp-mark--hero { width: 230px !important; }
   html[${ROOT_ATTRIBUTE}] [class$='_headline']:has(.lp-mark--hero) { gap: 8px; margin-bottom: 10px; font-size: 26px; }
   html[${ROOT_ATTRIBUTE}] .lp-companions { padding: 5px 0 10px; }
-  html[${ROOT_ATTRIBUTE}] .lp-companions__art { width: 100px; height: 56px; }
+  html[${ROOT_ATTRIBUTE}] .lp-companions__art { width: 100px; height: 93px; }
 }
 @media (max-height: 540px) { html[${ROOT_ATTRIBUTE}] .lp-mark--hero { width: 165px !important; } html[${ROOT_ATTRIBUTE}] .lp-companions { display: none; } }
 

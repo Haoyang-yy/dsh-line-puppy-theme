@@ -39,7 +39,7 @@ function LinePuppySidebarCompanions(props) {
   if (!props.wide || !state.value.enabled || !state.value.brandMark) return null
   const React = react()
   return React.createElement('div', { className: 'lp-companions', 'aria-hidden': 'true' },
-    React.createElement('div', { className: 'lp-companions__art', dangerouslySetInnerHTML: { __html: PUPPY_REST_SVG } }),
+    React.createElement('div', { className: 'lp-companions__art', dangerouslySetInnerHTML: { __html: PUPPY_CHEER_SVG } }),
     React.createElement('div', { className: 'lp-companions__caption' }, '今天也要一起加油呀'))
 }
 

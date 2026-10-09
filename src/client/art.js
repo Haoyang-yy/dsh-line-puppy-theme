@@ -22,6 +22,6 @@ const PUPPY_HUG_SVG = `<svg class="lp-art lp-art--hug" xmlns="http://www.w3.org/
  <image class="lp-couple" x="5" y="8" width="170" height="134" href="${COUPLE_ARTWORK['couple-hug']}"/>
 </svg>`
 
-const PUPPY_REST_SVG = `<svg class="lp-art lp-art--rest" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 84" role="img" aria-label="线条小狗" focusable="false">
- <image x="8" y="5" width="134" height="74" href="${COUPLE_ARTWORK['couple-rest']}"/>
+const PUPPY_CHEER_SVG = `<svg class="lp-art lp-art--cheer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 140" role="img" aria-label="线条小狗" focusable="false">
+ <image x="8" y="7" width="134" height="126" href="${COUPLE_ARTWORK['couple-cheer']}"/>
 </svg>`
